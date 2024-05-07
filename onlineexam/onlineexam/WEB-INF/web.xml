@@ -1,0 +1,11 @@
+<web-app>
+<servlet>
+   <servlet-name>online</servlet-name>
+   <servlet-class>online</servlet-class>
+</servlet>
+ 
+<servlet-mapping>
+   <servlet-name>online</servlet-name>
+   <url-pattern>/online</url-pattern>
+</servlet-mapping>
+</web-app>
